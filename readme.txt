@@ -1,7 +1,7 @@
 === Skill Bars ===
 Contributors: Themepoints
 Donate link: 
-Tags:  skillbar, skill-bars, progress bar, animated skill bar, progress loader, animated progress bar,wordpress progress bar,bar graph, horizontal, poll result, progress bar, vertical, progressbar, wordpress progress
+Tags:  skillbar, skill-bars, progress bar, animated skill bar, progress loader, animated progress bar,wordpress progress bar,bar graph, horizontal, poll result, progress bar, vertical, progressbar, wordpress progress, bootstrap progress bar, multi color progress bar.
 Requires at least: 3.7
 Tested up to: 4.2.2
 Stable tag: 2.7
